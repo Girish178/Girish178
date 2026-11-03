@@ -48,9 +48,7 @@ Connecting blood donors with people in need.
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" />
 </p>
 
 <p align="center">
@@ -58,7 +56,7 @@ Connecting blood donors with people in need.
 <b>🌐 Live Demo</b>
 </a>
 &nbsp; | &nbsp;
-<a href="YOUR_GITHUB_REPOSITORY_URL">
+<a href="https://github.com/Girish178/BloodConnect">
 <b>💻 Source Code</b>
 </a>
 </p>
