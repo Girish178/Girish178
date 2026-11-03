@@ -26,43 +26,45 @@
 
 ### Frontend Development
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react" />
-</p>
-
-### Backend Development
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-</p>
-
-### Programming Languages
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,js" />
-</p>
-
-### Tools & Technologies
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,cpp,git,github,vscode,postman" />
 </p>
 
 ---
 
-## 🔥 Featured Projects
 
-### 🩸 BloodConnect
-**Blood Donation & Emergency Connection Platform**
+<h2 align="center">🚀 Featured Projects</h2>
 
-A platform designed to connect blood donors with people who need blood.
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">🩸 BloodConnect</h3>
 
-- Donor discovery based on blood group and location.
-- Blood request and donor acceptance system.
-- Nearby blood donation camp notifications.
-- Blood donation awareness and educational resources.
+<a href="https://blood-connect-rouge-seven.vercel.app/">
+<img src="https://github.com/Girish178/Girish178/blob/main/Screenshot%202026-11-03%20222457.png" width="100%" />
+</a>
 
-**Tech Stack:** React, Node.js, Express, MongoDB
+<p align="center">
+Connecting blood donors with people in need.
+</p>
 
-🌐 [Live Demo](https://blood-connect-rouge-seven.vercel.app/)  
-💻 [Source Code](YOUR_GITHUB_REPOSITORY_URL)
-`MongoDB` `Express.js` `React.js` `Node.js`
+<p align="center">
+<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
+</p>
+
+<p align="center">
+<a href="https://blood-connect-rouge-seven.vercel.app/">
+<b>🌐 Live Demo</b>
+</a>
+&nbsp; | &nbsp;
+<a href="YOUR_GITHUB_REPOSITORY_URL">
+<b>💻 Source Code</b>
+</a>
+</p>
+</td>
+</tr>
+</table>
 
 ---
 
