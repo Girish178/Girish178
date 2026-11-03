@@ -66,19 +66,22 @@ Connecting blood donors with people in need.
 
 ---
 
-## 📊 GitHub Statistics
+<h2 align="center">📊 GitHub Statistics</h2>
 
-<div align="center">
+<p align="center">
+  <img width="48%"
+    src="https://github-readme-stats.vercel.app/api?username=Girish178&show_icons=true&theme=tokyonight&hide_border=true"
+  />
+  <img width="48%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Girish178&layout=compact&theme=tokyonight&hide_border=true"
+  />
+</p>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Girish178&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Girish178&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img width="60%" src="https://streak-stats.demolab.com?user=Girish178&theme=tokyonight&hide_border=true" />
-
-</div>
+<p align="center">
+  <img width="60%"
+    src="https://streak-stats.demolab.com?user=Girish178&theme=tokyonight&hide_border=true"
+  />
+</p>
 
 ---
 
