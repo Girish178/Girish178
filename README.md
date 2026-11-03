@@ -58,14 +58,11 @@ A platform designed to connect blood donors with people who need blood.
 - Nearby blood donation camp notifications.
 - Blood donation awareness and educational resources.
 
+**Tech Stack:** React, Node.js, Express, MongoDB
+
+🌐 [Live Demo](https://blood-connect-rouge-seven.vercel.app/)  
+💻 [Source Code](YOUR_GITHUB_REPOSITORY_URL)
 `MongoDB` `Express.js` `React.js` `Node.js`
-
-### 📚 BlogDesk
-**Frontend Development Practice**
-
-A learning from the project.
-
-`React` `TailwindCSS` 
 
 ---
 
